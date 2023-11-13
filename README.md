@@ -2,11 +2,6 @@
 ![Banner](banner.jpg)
 
 <!-- Links -->
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 <p align="center">
   <a href="https://taskerprofilecenter.com/">
     <strong>💻 Website</strong>
@@ -20,7 +15,3 @@
     <strong>🐞 Bug Reports</strong>
   </a>
 </p>
-
-💻 Website: [Tasker Profile Center](https://taskerprofilecenter.com/)<br/>
-⭐ Requests: [Tasker Profile Center](https://requests.taskerprofilecenter.com/)<br/>
-🐞 Bug Reports: [Tasker Profile Center](https://bug-reports.taskerprofilecenter.com/)<br/>
