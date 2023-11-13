@@ -1,5 +1,5 @@
 <!-- Project Title -->
-![Banner](docs/banner.png)
+![Banner](banner.png)
 
 
 💻 Website: [Tasker Profile Center](https://taskerprofilecenter.com/)
